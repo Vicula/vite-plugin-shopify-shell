@@ -1,0 +1,31 @@
+{
+    "name": "vite-plugin-shopify-shell",
+    "version": "0.0.1",
+    "description": "A shopify build space plugin built for vite.",
+    "main": "index.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Vicula/vite-plugin-shopify-shell.git"
+    },
+    "keywords": [
+      "vite",
+      "plugin",
+      "shopify"
+    ],
+    "author": "@Vicula",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Vicula/vite-plugin-shopify-shell.git/issues"
+    },
+    "homepage": "https://github.com/Vicula/vite-plugin-shopify-shell.git#readme",
+    "dependencies": {
+      "chalk": "^4.1.0",
+      "@types/node": "^14.14.22",
+      "@shopify/themekit": "^1.1.4",
+      "@types/rimraf": "^3.0.0",
+      "rimraf": "^3.0.2"
+    }
+  }
