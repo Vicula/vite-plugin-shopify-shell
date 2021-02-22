@@ -2,6 +2,8 @@
 
 This is a plugin for vite going to be used for building shopify themes.
 
+`npm i vite-plugin-shopify-shell`
+
 ```javascript
 import shopify from 'vite-plugin-shopify-shell'
 
